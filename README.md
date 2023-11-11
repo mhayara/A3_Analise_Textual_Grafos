@@ -1,6 +1,5 @@
 # A3_Analise_Textual_Grafos
 
-Etapas da Análise Textual
 Para realizar o processo de análise textual é necessário que se realize algumas etapas. Aqui estão alguns aspectos importantes da análise textual:
 1. Pré-processamento de Texto: Antes de realizar qualquer análise textual, é comum realizar o pré-processamento do texto. Isso inclui etapas como a tokenização (dividir o texto em palavras ou frases), remoção de stop words (palavras muito comuns que geralmente não contribuem para a análise), lematização (redução de palavras às suas formas base) e remoção de caracteres especiais.
 2. Aplicação de Métricas e Estatísticas Mais Utilizadas: Realizar o levantamento de métricas relevantes à resolução do problema como o TD-IDF
