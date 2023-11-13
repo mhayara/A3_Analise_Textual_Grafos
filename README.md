@@ -1,10 +1,10 @@
 ## Projeto A3 - Análise Textual de Resumos Científicos 
 
-#### **Faculdade:** São Judas - ANIMA
-#### **UC:** Estruturas de dados e análise de algoritmos
-#### **Aluna:** Mhayara Batista Amaral Ramos **RA:** 821243240
+**Faculdade:** São Judas - ANIMA
+**UC:** Estruturas de dados e análise de algoritmos
+**Aluna:** Mhayara Batista Amaral Ramos **RA:** 821243240
 
-Este é um {c:red}texto vermelho.{/c}### Análise textual e Grafos
+Este é um {c:red}### Análise textual e Grafos{/c}
 A análise textual pode estar relacionada a grafos de várias maneiras. Grafos são estruturas que consistem em nós (representando entidades) e arestas (representando relações entre essas entidades).
 
 **Etapa 1:** Identificação de Tópicos Principais 
