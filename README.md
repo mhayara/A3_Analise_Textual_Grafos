@@ -16,7 +16,7 @@ Construir um grafo de redes de coautoria entre os pesquisadores nos resumos. Cad
 **Etapa 3:** Medição da Similaridade entre Textos ✔️  
 Calcular a similaridade entre os resumos científicos usando técnicas de processamento de linguagem natural. Criar um grafo onde cada nó representa um resumo e as arestas indicam a similaridade entre os pares de resumos. Utilizar o grafo de tópicos principais de cada documento para determinar o grau de similaridade.
 
-**Etapa 4:** Avaliação da eficiência das soluções algorítmicas encontradas 🚧 **Em andamento**    
+**Etapa 4:** Avaliação da eficiência das soluções algorítmicas encontradas ✔️  
 Calcular qual é a complexidade computacional dos algoritmos utilizados para identificar como eles se comportariam em um ambiente real.
 
 
